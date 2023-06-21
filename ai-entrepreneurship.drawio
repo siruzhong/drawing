@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T05:16:23.847Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.8" etag="c54tOV9G1H8XO50iqcp4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T05:29:19.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VZBoF-i0oeDZ5gRUl5jp" version="21.3.8" type="github">
   <diagram name="第 1 页" id="7EpxbtDrcAWFijRyKHcl">
-    <mxGraphModel>
+    <mxGraphModel dx="1060" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6ieo0HuLiUpkhTFuR5VV-6" value="AI普及与培训" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Website.svg;" vertex="1" parent="1">
+          <mxGeometry x="194" y="310" width="44" height="36.23" as="geometry" />
+        </mxCell>
+        <mxCell id="6ieo0HuLiUpkhTFuR5VV-9" value="GPT代理网站" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/website-seo_and_web-internet-technology-application-128.png" vertex="1" parent="1">
+          <mxGeometry x="281" y="310" width="36.23" height="36.23" as="geometry" />
+        </mxCell>
+        <mxCell id="6ieo0HuLiUpkhTFuR5VV-10" value="AI角色聊天" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;" vertex="1" parent="1">
+          <mxGeometry x="358" y="313.62" width="40" height="32.38" as="geometry" />
+        </mxCell>
+        <mxCell id="6ieo0HuLiUpkhTFuR5VV-12" value="AI领域软件" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.toolkit_for_visual_studio;fillColor=#53B1CB;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="431" y="306" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ieo0HuLiUpkhTFuR5VV-15" value="&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;&quot;&gt;AI安全可信&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.instance;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="187.28" y="380" width="50.72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ieo0HuLiUpkhTFuR5VV-17" value="AI算力的云化分配与调度" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=k_proxy" vertex="1" parent="1">
+          <mxGeometry x="296" y="372" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6ieo0HuLiUpkhTFuR5VV-18" value="AI伦理与治理" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.management_and_governance;" vertex="1" parent="1">
+          <mxGeometry x="414" y="382" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="6ieo0HuLiUpkhTFuR5VV-19" value="AI多智能体协同与进化" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.migration_evaluator;" vertex="1" parent="1">
+          <mxGeometry x="519" y="382" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="6ieo0HuLiUpkhTFuR5VV-20" value="AI人机融合方法与系统" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.global_secondary_index;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="642" y="380" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
