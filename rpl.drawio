@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T17:28:08.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_jHwnsag9W-vY2UwfEKZ" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T17:28:55.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-VDyQLDxQbvaI4RcdAKb" version="21.6.1" type="github">
   <diagram name="第 1 页" id="sk9rFbAt4JuRA-GpV5t7">
     <mxGraphModel dx="1004" dy="682" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -416,7 +416,7 @@
           <mxGeometry x="1192" y="480" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9-qjNAh7bH6qOCzp5EAt-104" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;AI computing &lt;br&gt;power platform layer&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="830" y="490" width="160" height="50" as="geometry" />
+          <mxGeometry x="833" y="490" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bMIQILxvzawmsi8v1n_p-3" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;p style=&quot;font-family: DengXian; line-height: 150%;&quot;&gt;对所有层的进一步抽象，提供统一的界面或&lt;span style=&quot;font-family: 等线;&quot;&gt;API&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;，用户无需关心底层的资源管理和调度，只需关注&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;AI&lt;/span&gt;&lt;span style=&quot;font-family: 等线;&quot;&gt;任务，包括算力申请、任务提交、进度监控、结果获取等功能。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;strokeWidth=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1600" y="490" width="340" height="70" as="geometry" />
