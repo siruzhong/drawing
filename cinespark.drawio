@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T15:27:18.103Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2qtzjgkbNtoPCnLzDxaF" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T15:29:46.289Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="P1tDChRsTg0w8IIbzrBZ" version="22.1.4" type="github">
   <diagram name="Page-1" id="V8h-1MQleoCmdeibyXJW">
-    <mxGraphModel dx="1366" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,13 +270,13 @@
           <mxGeometry x="282" y="377.37" width="19.46" height="15.25" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-97" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Cloud_Shell.svg;" vertex="1" parent="1">
-          <mxGeometry x="130" y="556" width="54.75" height="38" as="geometry" />
+          <mxGeometry x="130" y="558" width="54.75" height="38" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-98" value="&lt;font face=&quot;Times New Roman&quot;&gt;docker-compose up -d&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="91.99999999999999" y="582" width="149" height="40" as="geometry" />
+          <mxGeometry x="91.99999999999999" y="585" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-99" value="&lt;font face=&quot;Times New Roman&quot;&gt;disk&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="584.5" y="583" width="149" height="40" as="geometry" />
+          <mxGeometry x="583.2" y="585" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-101" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
           <mxGeometry x="400" y="232" width="26" height="26" as="geometry" />
@@ -298,6 +298,15 @@
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-108" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.website;" vertex="1" parent="1">
           <mxGeometry x="508" y="560" width="52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6INaoKp7c1mNes1hCAk-109" value="&lt;font face=&quot;Times New Roman&quot;&gt;resource manager ui&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="585" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6INaoKp7c1mNes1hCAk-110" value="&lt;font face=&quot;Times New Roman&quot;&gt;spark ui&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.21" y="585" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6INaoKp7c1mNes1hCAk-111" value="&lt;font face=&quot;Times New Roman&quot;&gt;namenode ui&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="458.5" y="585" width="149" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
