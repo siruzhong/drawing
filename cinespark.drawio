@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T14:59:47.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ds3isgLVfsORf6yPDR4y" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T15:00:47.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FSdEmk2-Kw9K2fhNdCc1" version="22.1.4" type="github">
   <diagram name="Page-1" id="V8h-1MQleoCmdeibyXJW">
     <mxGraphModel dx="1062" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/KDE_Crystal_Diamond_2.5_Classical_Mod/128x128/devices/hdd_mount.png" vertex="1" parent="1">
-          <mxGeometry x="583.2" y="564" width="56" height="56" as="geometry" />
+          <mxGeometry x="587" y="557" width="56" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
