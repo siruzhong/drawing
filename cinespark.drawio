@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T16:01:21.439Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="krWgWCF3TGUwS48TPOmz" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T16:02:43.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7hVoy5ZfcdyW-zL8N2mX" version="22.1.4" type="github">
   <diagram name="Page-1" id="V8h-1MQleoCmdeibyXJW">
-    <mxGraphModel dx="869" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,8 +162,8 @@
         <mxCell id="P6INaoKp7c1mNes1hCAk-35" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="281" y="419.5" width="12.2" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="P6INaoKp7c1mNes1hCAk-36" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Docker Compose Cluster&lt;/font&gt;" style="text;fontStyle=0;align=left;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="171.17" y="231" width="228.83" height="26" as="geometry" />
+        <mxCell id="P6INaoKp7c1mNes1hCAk-36" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Docker Compose Hadoop Cluster&lt;/font&gt;" style="text;fontStyle=0;align=left;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="171.17" y="231" width="268.83" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-38" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="142" y="341" width="12.2" height="10" as="geometry" />
@@ -309,16 +309,16 @@
           <mxGeometry x="583.2" y="585" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-101" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
-          <mxGeometry x="400" y="232" width="26" height="26" as="geometry" />
+          <mxGeometry x="434" y="232" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-102" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
-          <mxGeometry x="530" y="232" width="26" height="26" as="geometry" />
+          <mxGeometry x="564" y="232" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-103" value="&lt;div style=&quot;color: rgb(197, 200, 198); background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 120%; font-size: 9px;&quot;&gt;apache/hadoop:&lt;span style=&quot;color: #9872a2;&quot;&gt;3&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="227" width="149" height="40" as="geometry" />
+          <mxGeometry x="450.5" y="227" width="109" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-104" value="&lt;div style=&quot;background-color: rgb(30, 30, 30); font-weight: normal; line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot; color=&quot;#c5c8c6&quot;&gt;apache/spark:3.3.1&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="234" width="160" height="40" as="geometry" />
+          <mxGeometry x="594" y="234" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-105" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/website-seo_and_web-internet-technology-application-128.png" vertex="1" parent="1">
           <mxGeometry x="269.73" y="556" width="44" height="44" as="geometry" />
@@ -340,9 +340,6 @@
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-126" value="16 CPU&lt;br&gt;32G RAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="94.20000000000005" y="173" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P6INaoKp7c1mNes1hCAk-127" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Hadoop Cluster&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="163.58" y="249" width="86.27" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
