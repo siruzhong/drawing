@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T15:17:54.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9pzL93lximVZaGlfvwN-" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T15:19:41.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="j6b0uqdzRz3U_xLy-FA8" version="22.1.4" type="github">
   <diagram name="Page-1" id="V8h-1MQleoCmdeibyXJW">
-    <mxGraphModel dx="869" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/KDE_Crystal_Diamond_2.5_Classical_Mod/128x128/devices/hdd_mount.png" vertex="1" parent="1">
-          <mxGeometry x="587" y="557" width="56" height="56" as="geometry" />
+          <mxGeometry x="629" y="555" width="56" height="56" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-73" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;hdfs&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.hdfs_cluster;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="266" y="271" width="37" height="29" as="geometry" />
@@ -268,6 +268,15 @@
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-93" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.hdfs_cluster;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="282" y="377.37" width="19.46" height="15.25" as="geometry" />
+        </mxCell>
+        <mxCell id="P6INaoKp7c1mNes1hCAk-97" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Cloud_Shell.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="556" width="54.75" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="P6INaoKp7c1mNes1hCAk-98" value="&lt;font face=&quot;Times New Roman&quot;&gt;docker-compose up -d&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="91.99999999999999" y="582" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6INaoKp7c1mNes1hCAk-99" value="&lt;font face=&quot;Times New Roman&quot;&gt;disk&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="585" width="149" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
