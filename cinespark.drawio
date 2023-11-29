@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T14:07:23.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zMvUZCun6aXC4eAsEd5m" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T14:08:05.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8I_t-FGuwToc4HvtNcnZ" version="22.1.4" type="github">
   <diagram name="Page-1" id="V8h-1MQleoCmdeibyXJW">
     <mxGraphModel dx="925" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,8 +93,8 @@
             <mxPoint x="230" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P6INaoKp7c1mNes1hCAk-22" value="hadoop-cluster_default" style="text;whiteSpace=wrap;html=1;fontStyle=6" vertex="1" parent="1">
-          <mxGeometry x="234.59" y="505" width="135.41" height="26" as="geometry" />
+        <mxCell id="P6INaoKp7c1mNes1hCAk-22" value="hadoop-cluster_default" style="text;whiteSpace=wrap;html=1;fontStyle=6;align=left;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="233.59" y="505" width="135.41" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P6INaoKp7c1mNes1hCAk-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/CDN_Profiles.svg;" vertex="1" parent="1">
           <mxGeometry x="204" y="510" width="27.2" height="16" as="geometry" />
