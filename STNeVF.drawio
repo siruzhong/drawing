@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T08:41:07.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="rjrS5ED0HVwSaUkumL4A" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T08:41:41.526Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JSUHcnqxHmk4_4M1C99d" version="23.1.1" type="github">
   <diagram name="Page-1" id="TbqWxiUVxZnL4cx0QJOI">
-    <mxGraphModel dx="561" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="681" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,7 +211,7 @@
         <mxCell id="bCabj6HtADndmNLXBCn1-318" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 8px;&quot;&gt;result&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="325" y="975" width="23" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="bCabj6HtADndmNLXBCn1-321" value="Cloud Server" style="swimlane;whiteSpace=wrap;html=1;fillColor=#eeeeee;swimlaneFillColor=none;strokeColor=#36393d;glass=1;" parent="1" vertex="1">
+        <mxCell id="bCabj6HtADndmNLXBCn1-321" value="Cloud Server" style="swimlane;whiteSpace=wrap;html=1;fillColor=#eeeeee;swimlaneFillColor=default;strokeColor=#36393d;glass=1;" parent="1" vertex="1">
           <mxGeometry x="254" y="160" width="320" height="302.35" as="geometry">
             <mxRectangle x="254" y="160" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
