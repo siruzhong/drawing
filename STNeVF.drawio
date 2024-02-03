@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T02:04:16.178Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xs6i8gpieKOYEivJ9MLo" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T02:05:28.288Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3H0CMhYGNCMTRVLyXVuz" version="23.1.1" type="github">
   <diagram name="Page-1" id="TbqWxiUVxZnL4cx0QJOI">
     <mxGraphModel dx="763" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="bCabj6HtADndmNLXBCn1-4" value="Nginx" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/373924/nginx.svg;clipPath=inset(3.33% 7.33% 4% 7%);" vertex="1" parent="bCabj6HtADndmNLXBCn1-3">
           <mxGeometry x="240" y="105" width="36.98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bCabj6HtADndmNLXBCn1-7" value="Data Preprocessing" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="bCabj6HtADndmNLXBCn1-3">
+          <mxGeometry x="20" y="60" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
