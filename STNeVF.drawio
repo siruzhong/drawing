@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T02:52:39.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="irLwQFMA_YxkIXiYSpQ4" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T02:52:44.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8TCu_KV2JUexP7NPC0p6" version="23.1.1" type="github">
   <diagram name="Page-1" id="TbqWxiUVxZnL4cx0QJOI">
     <mxGraphModel dx="681" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="bCabj6HtADndmNLXBCn1-3" value="Cloud Server" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="260" y="291" width="300" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="bCabj6HtADndmNLXBCn1-4" value="Nginx" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/373924/nginx.svg;clipPath=inset(3.33% 7.33% 4% 7%);" vertex="1" parent="bCabj6HtADndmNLXBCn1-3">
+        <mxCell id="bCabj6HtADndmNLXBCn1-4" value="Nginx" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/373924/nginx.svg;clipPath=inset(3.33% 7.33% 4% 7%);fontSize=11;" vertex="1" parent="bCabj6HtADndmNLXBCn1-3">
           <mxGeometry x="236.51" y="149" width="36.98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bCabj6HtADndmNLXBCn1-7" value="Data Preprocessing" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="bCabj6HtADndmNLXBCn1-3">
