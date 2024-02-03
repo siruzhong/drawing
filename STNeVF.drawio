@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T08:28:25.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GOvp2tnmJ4TUAG4z1Yje" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T08:29:02.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zXJpDU_1erqnLav9eaJc" version="23.1.1" type="github">
   <diagram name="Page-1" id="TbqWxiUVxZnL4cx0QJOI">
-    <mxGraphModel dx="795" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="734" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,8 +246,8 @@
         <mxCell id="bCabj6HtADndmNLXBCn1-385" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;MySQL&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bCabj6HtADndmNLXBCn1-321" vertex="1">
           <mxGeometry x="9" y="180.03" width="60" height="16.65" as="geometry" />
         </mxCell>
-        <mxCell id="bCabj6HtADndmNLXBCn1-386" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Redis&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bCabj6HtADndmNLXBCn1-321" vertex="1">
-          <mxGeometry x="50.5" y="180.03" width="60" height="16.65" as="geometry" />
+        <mxCell id="bCabj6HtADndmNLXBCn1-386" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Redis(cached)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bCabj6HtADndmNLXBCn1-321" vertex="1">
+          <mxGeometry x="54.5" y="180.03" width="60" height="16.65" as="geometry" />
         </mxCell>
         <mxCell id="bCabj6HtADndmNLXBCn1-388" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Inference Model&lt;/i&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;strokeColor=default;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.page;strokeWidth=0;shadow=1;" parent="bCabj6HtADndmNLXBCn1-321" vertex="1">
           <mxGeometry x="133.64999999999998" y="33" width="105" height="80" as="geometry" />
